@@ -27,7 +27,7 @@ This project was developed using
 
 ## 💻 Deploy
 
-> [Click here to check it out!](#)
+> [Click here to check it out!](https://dad-jokes-gules.vercel.app/)
 
 
 ## 🌎 Portuguese Version
@@ -35,7 +35,7 @@ This project was developed using
 Gerador de Piadas do Tio do Pavê é um projeto rapidamente gerado com o objetivo de simplesmente exercitar o código. Para desenvolver eu utilizei:
 - HTML, CSS, Javascript, Git, Github e a [API](https://icanhazdadjoke.com/) de piadas
 
-> Para ver o site é só [clicar aqui](#) 
+> Para ver o site é só [clicar aqui](https://dad-jokes-gules.vercel.app/) 
 
 ---
 ### Developed by Sarah Schneider 🖖
